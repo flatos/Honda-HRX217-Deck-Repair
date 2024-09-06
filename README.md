@@ -1,21 +1,25 @@
 # Honda HRX217 Plastic Deck Repair
 ![Graph](img/trimetric.png)
 
+A description of my repair of a Honda HRX217VLA lawnmower with extensive cracking of the plastic deck.
+
+Includes a downloadable 3D model of the plastic ring I designed to reinforce the damaged area of the deck.
 
 
+## Description
 
-# Pneumatic Antenna Launcher
 
-My design for a pneunatic antenna launcher.
+![Graph](img/pre_repair.png)
 
-Based on the many pre-existing designs on the web (see links at end). 
-My goals were minimal component cost and simplicity, not necessarily maximum performance.
 
-This repository contains a description of construction, plus Solidworks and STL files for a few 3d-printed components.
+> [!Note]
+> Plenty of people have successfully built and used similar launchers.\
+> Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
+> The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
+> Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
 
-![Graph](img/Assembly.png)
 
-> [!CAUTION]
+> [!Caution]
 > Plenty of people have successfully built and used similar launchers.\
 > Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
 > The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
