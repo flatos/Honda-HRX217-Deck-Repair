@@ -17,6 +17,7 @@ Includes a downloadable 3D model of the plastic ring I designed to reinforce the
 > Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
 > The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
 > Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
+[disclaimer](#disclaimer)
 
 
 > [!Caution]
@@ -59,6 +60,9 @@ I used TE CPC connectors only because I had some on hand -- use something cheape
 I have a 19.2V cordless drill battery pack that I pressed into service. Standard 0.25" quick-connect terminals will fit the battery's terminals. 
 I added a pair of inline fuses (under the heat shrink) to prevent accidental damage... The control box contains only a momentary toggle switch for firing.
 
+
+# Disclaimer
+aed ef sef sff
 
 
 
