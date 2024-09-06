@@ -19,6 +19,38 @@ Includes a downloadable 3D model of the plastic ring I designed to reinforce the
 ![Graph](img/pre_repair.png)
 
 
+As seen in this photo, the mower had extensive cracking around the central opening of the deck. 
+Some of the cracks had propagated several inches across the deck. 
+One of the motor mounts had mostly broken away.
+
+My initial inclination was to try repairing the damage with epoxy (e.g. JB Weld), with steel or aluminum strips or plates as reinforcement.
+That probably would have worked, although I had concerns about mechanical strength and rigidity.
+
+Instead, I designed a plastic ring that fits exactly over the damaged region of the deck. It's printed in carbon-fiber-reinforced nylon. 
+It helps minimize the amount of expensive epoxy required, and holds everything in proper alignment while the epoxy cures.
+
+Printed with `eSun ePA-CF` filament, the cost to produce the part is around $7.50.
+
+
+
+![Graph](img/top_cad.png)
+![Graph](img/bot_cad.png)
+
+![Graph](img/top.png)
+![Graph](img/bot.png)
+
+
+
+
+
+# Disclaimer
+aed ef sef sff
+
+
+## Contact
+ac8p@proton.me
+
+
 
 
 
@@ -56,8 +88,7 @@ I have a 19.2V cordless drill battery pack that I pressed into service. Standard
 I added a pair of inline fuses (under the heat shrink) to prevent accidental damage... The control box contains only a momentary toggle switch for firing.
 
 
-# Disclaimer
-aed ef sef sff
+
 
 
 
@@ -110,6 +141,5 @@ Thanks to these previous designers:
 [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 
 
-## Contact
-ac8p@proton.me
+
 
