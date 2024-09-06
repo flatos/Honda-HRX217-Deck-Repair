@@ -1,5 +1,5 @@
 # Honda HRX217 Plastic Deck Repair
-
+![Graph](img/trimetric.png)
 
 
 
