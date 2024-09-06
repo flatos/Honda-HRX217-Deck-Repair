@@ -5,6 +5,13 @@ A description of my repair of a Honda HRX217VLA lawnmower with extensive crackin
 
 Includes a downloadable 3D model of the plastic ring I designed to reinforce the damaged area of the deck.
 
+> [!Caution]
+> The procedure described here worked for me, and the 3D models are available to download for free.\
+> But use the contents of this site at your own risk!
+> Review the [disclaimer](#disclaimer) at the end of this page.
+
+
+
 
 ## Description
 
@@ -12,19 +19,7 @@ Includes a downloadable 3D model of the plastic ring I designed to reinforce the
 ![Graph](img/pre_repair.png)
 
 
-> [!Note]
-> Plenty of people have successfully built and used similar launchers.\
-> Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
-> The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
-> Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
-[disclaimer](#disclaimer)
 
-
-> [!Caution]
-> Plenty of people have successfully built and used similar launchers.\
-> Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
-> The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
-> Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
 
 
 ## Construction
