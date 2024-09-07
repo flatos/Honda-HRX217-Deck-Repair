@@ -57,7 +57,9 @@ The ring has guide holes to aid in drilling for the underside screws.
 
 ![Graph](img/screws.png)
 
+The completed repair. I added some epoxy and steel plated across the cracks that had spread the furthest, and reconstructed the area around the broken motor mount with JB Weld.
 
+![Graph](img/screws.png)
 
 # Disclaimer
 aed ef sef sff
