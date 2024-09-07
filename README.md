@@ -40,6 +40,20 @@ Printed with `eSun ePA-CF` filament, the cost to produce the part is around $7.5
 ![Graph](img/bot.png)
 
 
+## Procedure
+
+The 3D models are in the folder `models`. The file `Reinforcing Ring Final.STL` is the complete ring.  
+The file `Fit Test Final.STL` is a truncated version that's much quicker to print; you can check if the part fits your mower before printing the full model.
+
+The ring pressed into place:
+![Graph](img/installed.png)
+
+
+I slathered on an ample amount of epoxy on both mating surfaces before pressing the ring into place.
+
+After curing, I added a handful of sheet metal screws from both the underside and vertical edges (`#6-20 x 3/8" Phillips Drive Pan Head Grade 410 Type B Point Stainless Steel Sheet Metal Screw, Fastenal PN 0148220`)
+The ring has guide holes to aid in drilling for the underside screws.
+![Graph](img/screws.png)
 
 
 
